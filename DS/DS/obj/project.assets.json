@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nrd/Desktop/Data_Structures_Midterm/DS_2333960/DS_2333960/DS_2333960.csproj",
-      "projectName": "DS_2333960",
-      "projectPath": "/Users/nrd/Desktop/Data_Structures_Midterm/DS_2333960/DS_2333960/DS_2333960.csproj",
+      "projectUniqueName": "/Users/nrd/Desktop/Data_Structures_Midterm/DS/DS/DS.csproj",
+      "projectName": "DS",
+      "projectPath": "/Users/nrd/Desktop/Data_Structures_Midterm/DS/DS/DS.csproj",
       "packagesPath": "/Users/nrd/.nuget/packages/",
-      "outputPath": "/Users/nrd/Desktop/Data_Structures_Midterm/DS_2333960/DS_2333960/obj/",
+      "outputPath": "/Users/nrd/Desktop/Data_Structures_Midterm/DS/DS/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nrd/.nuget/NuGet/NuGet.Config"
