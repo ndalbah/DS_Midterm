@@ -1,3 +1,3 @@
-﻿using Recursion_2333960;
+﻿using Recursion;
 
 Console.WriteLine( Recursion.DNATest("AGACTCAGB"));
