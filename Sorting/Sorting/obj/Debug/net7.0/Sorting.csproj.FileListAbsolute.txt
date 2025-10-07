@@ -1,0 +1,15 @@
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/bin/Debug/net7.0/Sorting_2333960
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/bin/Debug/net7.0/Sorting_2333960.deps.json
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/bin/Debug/net7.0/Sorting_2333960.runtimeconfig.json
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/bin/Debug/net7.0/Sorting_2333960.dll
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/bin/Debug/net7.0/Sorting_2333960.pdb
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/obj/Debug/net7.0/Sorting_2333960.csproj.AssemblyReference.cache
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/obj/Debug/net7.0/Sorting_2333960.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/obj/Debug/net7.0/Sorting_2333960.AssemblyInfoInputs.cache
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/obj/Debug/net7.0/Sorting_2333960.AssemblyInfo.cs
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/obj/Debug/net7.0/Sorting_2333960.csproj.CoreCompileInputs.cache
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/obj/Debug/net7.0/Sorting_2333960.dll
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/obj/Debug/net7.0/refint/Sorting_2333960.dll
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/obj/Debug/net7.0/Sorting_2333960.pdb
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/obj/Debug/net7.0/Sorting_2333960.genruntimeconfig.cache
+/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/obj/Debug/net7.0/ref/Sorting_2333960.dll
