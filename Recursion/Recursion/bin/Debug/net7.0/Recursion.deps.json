@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Recursion_2333960/1.0.0": {
+      "Recursion/1.0.0": {
         "runtime": {
-          "Recursion_2333960.dll": {}
+          "Recursion.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Recursion_2333960/1.0.0": {
+    "Recursion/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
