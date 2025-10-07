@@ -1,4 +1,4 @@
-﻿using DS_2333960;
+﻿using DS;
 
 MIN_MAX array = new MIN_MAX(4);
 
