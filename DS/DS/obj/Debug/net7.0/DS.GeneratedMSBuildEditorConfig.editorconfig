@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = DS_2333960
-build_property.ProjectDir = /Users/nrd/Desktop/Data_Structures_Midterm/DS_2333960/DS_2333960/
+build_property.RootNamespace = DS
+build_property.ProjectDir = /Users/nrd/Desktop/Data_Structures_Midterm/DS/DS/
