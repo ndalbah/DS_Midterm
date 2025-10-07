@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Sorting_2333960
+namespace Sorting
 {
 	public class Sort
     {
