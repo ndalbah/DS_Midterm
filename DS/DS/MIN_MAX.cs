@@ -1,5 +1,5 @@
 ﻿using System;
-namespace DS_2333960
+namespace DS
 {
 	public class MIN_MAX
 	{
