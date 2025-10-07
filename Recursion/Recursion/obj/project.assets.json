@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nrd/Desktop/Data_Structures_Midterm/Recursion_2333960/Recursion_2333960/Recursion_2333960.csproj",
-      "projectName": "Recursion_2333960",
-      "projectPath": "/Users/nrd/Desktop/Data_Structures_Midterm/Recursion_2333960/Recursion_2333960/Recursion_2333960.csproj",
+      "projectUniqueName": "/Users/nrd/Desktop/Data_Structures_Midterm/Recursion/Recursion/Recursion.csproj",
+      "projectName": "Recursion",
+      "projectPath": "/Users/nrd/Desktop/Data_Structures_Midterm/Recursion/Recursion/Recursion.csproj",
       "packagesPath": "/Users/nrd/.nuget/packages/",
-      "outputPath": "/Users/nrd/Desktop/Data_Structures_Midterm/Recursion_2333960/Recursion_2333960/obj/",
+      "outputPath": "/Users/nrd/Desktop/Data_Structures_Midterm/Recursion/Recursion/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nrd/.nuget/NuGet/NuGet.Config"
