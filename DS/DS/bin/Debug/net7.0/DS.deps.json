@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "DS_2333960/1.0.0": {
+      "DS/1.0.0": {
         "runtime": {
-          "DS_2333960.dll": {}
+          "DS.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "DS_2333960/1.0.0": {
+    "DS/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
