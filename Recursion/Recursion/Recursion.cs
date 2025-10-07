@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Recursion_2333960
+namespace Recursion
 {
 	public class Recursion
 	{
