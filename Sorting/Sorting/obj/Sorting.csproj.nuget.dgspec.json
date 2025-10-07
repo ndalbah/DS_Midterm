@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/Sorting_2333960.csproj": {}
+    "/Users/nrd/Desktop/Data_Structures_Midterm/Sorting/Sorting/Sorting.csproj": {}
   },
   "projects": {
-    "/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/Sorting_2333960.csproj": {
+    "/Users/nrd/Desktop/Data_Structures_Midterm/Sorting/Sorting/Sorting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/Sorting_2333960.csproj",
-        "projectName": "Sorting_2333960",
-        "projectPath": "/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/Sorting_2333960.csproj",
+        "projectUniqueName": "/Users/nrd/Desktop/Data_Structures_Midterm/Sorting/Sorting/Sorting.csproj",
+        "projectName": "Sorting",
+        "projectPath": "/Users/nrd/Desktop/Data_Structures_Midterm/Sorting/Sorting/Sorting.csproj",
         "packagesPath": "/Users/nrd/.nuget/packages/",
-        "outputPath": "/Users/nrd/Desktop/Data_Structures_Midterm/Sorting_2333960/Sorting_2333960/obj/",
+        "outputPath": "/Users/nrd/Desktop/Data_Structures_Midterm/Sorting/Sorting/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nrd/.nuget/NuGet/NuGet.Config"
